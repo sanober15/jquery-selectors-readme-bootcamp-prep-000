@@ -1,7 +1,7 @@
 // declare your functions here...
 function paragraphSelector(){
-  $(document).ready(function(){
-    (document).$('*p');
+  $('*p').ready(function(){
+    
   });
 }
 
