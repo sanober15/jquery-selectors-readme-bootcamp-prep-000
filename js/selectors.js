@@ -6,5 +6,5 @@ function paragraphSelector(){
 }
 
 function lastImageSelector(){
-  $('img:last')
+  $('.img:last')
 }
